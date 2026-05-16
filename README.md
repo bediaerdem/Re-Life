@@ -24,7 +24,6 @@ Re-Life, **Teknik Derinlik**, **Siber Dayanıklılık** ve **Yüksek UX Performa
 * **Frontend:** Laravel Livewire (Sayfa yenilemeden çalışan, SPA hızında dinamik kullanıcı deneyimi)
 * **Veritabanı:** PostgreSQL / MySQL (İlişkisel, optimize edilmiş vaka ve bağış şeması)
 * **Güvenlik:** Rol Bazlı Erişim Kontrolü (RBAC) ve Gelişmiş Middleware katmanları
-* **Tasarım Dili:** Glassmorphism esintili, Kintsugi temalı (Deep Dark & Gold #D4AF37) premium arayüz
 
 ---
 
